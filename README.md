@@ -12,3 +12,8 @@ Industrial B2B software engineer, technical SEO builder, and founder of [Jaadu D
   - Zero-dependency terminal diagnostics: [plc-and-ros2-field-diagnostics-cli](https://github.com/Jignesh257/plc-and-ros2-field-diagnostics-cli) (`v1.0.0`)
   - Curated directory: [awesome-free-industrial-and-robotics-calculators](https://github.com/Jignesh257/awesome-free-industrial-and-robotics-calculators) (`v1.0.0`)
 - **[Jaadu Digital](https://jaadudigital.com/):** WordPress Core Web Vitals engineering (`90+` mobile performance), technical SEO/GEO, and industrial B2B lead systems.
+
+## Contribute Technical Articles (Write for Us)
+
+- Engineering & plant maintenance guest contributions: [EngiTech.in Write for Us](https://engitech.in/write-for-us/)
+- Robotics, ROS 2 & automation guest contributions: [RoboticsEngineering.in Write for Us](https://roboticsengineering.in/write-for-us/)
